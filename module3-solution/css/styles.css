@@ -1,0 +1,19 @@
+.navbar {
+	background-color: lightblue;
+}
+
+#block-of-text {
+	color: black;
+	background-color :lightgrey;
+	height: 1000px;
+	margin-right: 15px;
+	margin-left: 15px;
+	margin-top: 35px;
+	padding-top: 0px;
+}
+
+h2 {
+	text-align: center;
+	font-size: 1.5em;
+	padding-top: 0px
+}
